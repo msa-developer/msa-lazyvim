@@ -7,6 +7,8 @@ return {
       { "<C-j>", false },
       { "<C-k>", false },
       { "<C-l>", false },
+      { "<leader>e", false },
+      { "<leader>E", false },
     },
   },
   -- Then add tmux-navigator
